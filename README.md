@@ -5,6 +5,10 @@ Full-stack AI observability app with:
 - React + Vite dashboard (`dashboard/`)
 - SQLite by default (`ai_logs.db`)
 
+# Full Explaination of the Project
+- [Article 1](https://medium.com/@sayedebad.777/building-an-ai-observability-system-from-scratch-fastapi-openai-react-part-1-87421b664859)
+- [Article 2](https://medium.com/@sayedebad.777/building-an-ai-observability-system-from-scratch-fastapi-openai-react-part-2-2f325db57177)
+
 ## Features
 
 - Register and login with role-based users (`admin`, `employee`)
